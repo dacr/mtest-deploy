@@ -3,6 +3,7 @@
   <groupId>mtest-deploy</groupId>
   <artifactId>mtest-deploy</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <name>mtest-deploy</name>
   <build>
     <plugins>
       <plugin>
